@@ -12,17 +12,6 @@ The repository provides implementations and experimental resources for three Mei
 
 It also contains the code and resources used for evaluating these models on multiple Meiteilon NLU tasks and for conducting the reported ablation and generative-model experiments.
 
-### Vocabulary Size Ablation
-
-LonRoBERTa was evaluated with different vocabulary sizes, including:
-
-* 5K
-* 10K
-* 15K
-
-The 10K vocabulary configuration was used as the primary configuration.
-
----
 
 ## Pre-trained Model Files
 
