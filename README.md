@@ -26,7 +26,7 @@ The 10K vocabulary configuration was used as the primary configuration.
 
 ## Pre-trained Model Files
 
-Due to the large size of the pre-trained checkpoints, model weights are not necessarily stored directly in this GitHub repository.
+Due to the large size of the pre-trained checkpoints, model weights are not necessarily stored directly in this [Google Drive link](https://drive.google.com/drive/folders/1XDM2abHU3G6-75297jLtKWH3WXkcOWGw?usp=sharing).
 
 
 
