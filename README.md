@@ -15,7 +15,7 @@ It also contains the code and resources used for evaluating these models on mult
 
 ## Pre-trained Model Files
 
-Due to the large size of the pre-trained checkpoints, model weights are not necessarily stored directly in this [Google Drive link](https://drive.google.com/drive/folders/1XDM2abHU3G6-75297jLtKWH3WXkcOWGw?usp=sharing).
+Due to the large size of the pre-trained checkpoints, model weights are stored directly in this [Google Drive link](https://drive.google.com/drive/folders/1XDM2abHU3G6-75297jLtKWH3WXkcOWGw?usp=sharing).
 
 
 
