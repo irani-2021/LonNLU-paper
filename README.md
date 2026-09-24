@@ -29,6 +29,9 @@ The Downstream_Dataset directory contains the datasets used for the five downstr
 
 The dataset sizes, splits, annotation procedures, label definitions, and evaluation protocols are described in the paper and the accompanying Data Card.
 
+##Fine_Tuning
+All the multi-lingual, baseline models and Lon models code are available in the folder FINE_TUNING.
+
 
 
 
