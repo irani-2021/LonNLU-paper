@@ -17,6 +17,19 @@ It also contains the code and resources used for evaluating these models on mult
 
 Due to the large size of the pre-trained checkpoints, model weights are stored directly in this [Google Drive link](https://drive.google.com/drive/folders/1XDM2abHU3G6-75297jLtKWH3WXkcOWGw?usp=sharing).
 
+## Downstream Datasets
+
+The Downstream_Dataset directory contains the datasets used for the five downstream NLU tasks in the LonNLU benchmark. The files are organized by task as follows:
+
+ Text Classification ----`train_content_dataset.json'....Meiteilon text classification data
+ Headline Classification----'News_headlineclassification_train.csv'---Meiteilon headline classification data   
+ Natural Language Inference--- `train_nli1.csv` ---       Premise--hypothesis pairs with NLI labels       
+ Semantic Textual Similarity--`semanticsimilarity_train.csv`....Meiteilon sentence pairs with similarity scores 
+  Retrieval           ----         `retrieval_train.json`----  Query, positive passage, and negative passages  
+
+The dataset sizes, splits, annotation procedures, label definitions, and evaluation protocols are described in the paper and the accompanying Data Card.
+
+
 
 
 
